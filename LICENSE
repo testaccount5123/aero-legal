@@ -1,0 +1,139 @@
+AERO CUSTOM SOFTWARE LICENSE (ACSL)
+VERSION 1.0
+EFFECTIVE NOVEMBER 22, 2026
+
+Copyright (c) 2026 ManWork
+All Rights Reserved.
+
+PROJECT: AERO
+PROJECT OWNER: ManWork
+
+==================================================
+
+1. DEFINITIONS
+
+" AERO " refers to the software project known as Aero, including its original source code, compiled builds, original assets, designs, documentation, configurations, features, and project-specific materials owned by the copyright holder.
+
+"Copyright Holder" refers to ManWork and any successor who lawfully obtains the applicable ownership rights.
+
+"Third-Party Materials" refers to any software, libraries, assets, APIs, trademarks, game content, or other materials owned by parties other than the Copyright Holder.
+
+"Software" refers exclusively to original materials created for and owned by the Copyright Holder within Aero.
+
+2. OWNERSHIP
+
+All original materials created by the Copyright Holder for Aero remain the exclusive property of the Copyright Holder, subject to applicable law.
+
+Nothing in this license transfers ownership of Aero or its original materials to any other person.
+
+This license does not claim ownership of Minecraft, Mojang, Microsoft, third-party libraries, or any materials not originally created and owned by the Copyright Holder.
+
+3. LIMITED ACCESS
+
+Access to Aero's public repository or published project materials does not constitute a grant of permission to reuse, modify, redistribute, republish, or commercially exploit the Software.
+
+Users may view publicly accessible source code for inspection and reference purposes only, subject to applicable law and the platform's terms.
+
+4. RESTRICTIONS
+
+Without prior written permission from the Copyright Holder, no person or entity may:
+
+a. Reproduce, copy, or duplicate the original source code or substantial portions of Aero.
+
+b. Modify, adapt, translate, or create derivative works from Aero.
+
+c. Redistribute, republish, reupload, mirror, or share Aero's source code or unauthorized copies.
+
+d. Sell, rent, sublicense, monetize, or commercially exploit Aero or its original materials.
+
+e. Incorporate Aero's original code, assets, or materials into another project, client, mod, plugin, launcher, application, or software product.
+
+f. Create or distribute unauthorized forks, remakes, clones, ports, or substantially similar copies utilizing Aero's protected original materials.
+
+g. Claim Aero, its source code, development, branding, or original materials as their own.
+
+h. Remove, alter, obscure, or falsify copyright notices, ownership information, or license notices.
+
+i. Use Aero's name, logos, branding, or identity to imply official ownership, endorsement, authorization, or affiliation without permission.
+
+j. Distribute modified, repackaged, or unofficial builds of Aero without written authorization.
+
+5. COMPILED SOFTWARE
+
+This license applies to Aero's source code and compiled versions, including JAR files, executables, builds, packages, and other forms of distribution.
+
+Obtaining, possessing, or executing a compiled copy of Aero does not grant ownership or redistribution rights.
+
+6. NO UNAUTHORIZED RECREATION
+
+No permission is granted to reproduce Aero's original code, protected assets, or other protected materials to create an unauthorized remake, clone, copy, or derivative project.
+
+This section does not claim exclusive ownership over general ideas, concepts, techniques, independently developed functionality, or materials that are not legally protected by the Copyright Holder.
+
+7. THIRD-PARTY RIGHTS AND MINECRAFT DISCLAIMER
+
+Aero is an independent project.
+
+Aero is not affiliated with, endorsed by, sponsored by, or officially associated with Mojang Studios or Microsoft.
+
+Minecraft, Mojang, Microsoft, their respective trademarks, game content, assets, and other intellectual property remain the property of their respective owners.
+
+This license applies only to original materials owned by the Copyright Holder and does not override third-party licenses, Minecraft's terms, or other applicable legal requirements.
+
+8. PERMISSIONS
+
+Any permission to use, modify, reproduce, redistribute, publish, incorporate, or commercially exploit Aero must be explicitly granted in writing by the Copyright Holder.
+
+Permissions may be limited to specific individuals, purposes, versions, materials, or time periods.
+
+No permission shall be implied merely by repository access, downloads, public availability, testing, or discussion.
+
+9. CONTRIBUTIONS
+
+Contributions submitted to Aero do not automatically grant the contributor ownership of the entire project.
+
+Unless otherwise agreed in writing, contributors retain rights in their original contributions while granting the Copyright Holder the permission necessary to review, modify, incorporate, maintain, and distribute those contributions as part of Aero.
+
+Contributions must not contain unlawfully copied materials or materials that violate third-party rights.
+
+10. TERMINATION
+
+Any permission granted under this license may terminate if the recipient violates the terms of that permission, subject to applicable law.
+
+Following termination, the recipient must discontinue activities for which permission has terminated, to the extent legally required.
+
+11. DISCLAIMER OF WARRANTY
+
+AERO IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT AERO WILL BE ERROR-FREE, SECURE, COMPATIBLE, UNINTERRUPTED, OR SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+12. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR DAMAGES, LOSSES, CLAIMS, OR OTHER LIABILITIES ARISING FROM THE USE, INABILITY TO USE, INSTALLATION, MODIFICATION, DISTRIBUTION, OR OTHER DEALINGS WITH AERO.
+
+13. SEVERABILITY
+
+If any provision of this license is held invalid or unenforceable, the remaining provisions shall remain effective to the maximum extent permitted by applicable law.
+
+14. NO WAIVER
+
+Failure to enforce any provision of this license does not constitute a waiver of that provision or of any other rights.
+
+15. LICENSE MODIFICATIONS
+
+The Copyright Holder may publish revised versions of this license for future releases of Aero.
+
+Unless expressly stated otherwise, revised license versions shall not retroactively change the terms applicable to copies previously distributed under an earlier license.
+
+16. ENTIRE AGREEMENT
+
+This license governs permissions concerning Aero's original materials, except where a separate written agreement expressly supersedes applicable provisions.
+
+17. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this license are reserved by the Copyright Holder.
+
+Unauthorized use of Aero's protected original materials is prohibited to the extent such use is not permitted by this license or applicable law.
+
+==================================================
